@@ -2,7 +2,7 @@
 /* 
  * PARALLEL PREFIX SCAN ALGORITHM IMPLEMENTATION
  * written by: Aniebiet Akpan, 20212007
- * for: Advanced Computational Engineering Coursework 4
+ * for: Advanced Computational Engineering
  * on: Concurrent Programming using MPI
  * University of Nottingham
  */
